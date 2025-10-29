@@ -102,4 +102,4 @@ try {
 ```
 
 ## Screenshot Website
-![Tampilan Daftar Barang](img/Screenshot_1.png)
+a
